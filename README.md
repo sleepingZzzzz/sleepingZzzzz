@@ -1,4 +1,4 @@
-# Xiangyun 👋
+# Hi! I'm Xiangyun 👋
 
 **Artificial Intelligence · Research & Engineering**
 
