@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="152" viewBox="0 0 650 152" role="img" aria-label="PiSSA Reproduction project card">
+  <rect x="1" y="1" width="648" height="150" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
+  <rect x="1" y="20" width="4" height="112" rx="2" fill="#476579"/>
+  <g fill="none" stroke="#476579" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" transform="translate(25 22)">
+    <path d="M4 2h15a2 2 0 0 1 2 2v17H5a3 3 0 0 0-3 3V5a3 3 0 0 1 2-3z"/>
+    <path d="M2 20a3 3 0 0 1 3-3h16"/>
+    <path d="M5 17v6h16"/>
+  </g>
+  <text x="61" y="42" font-size="18" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-weight="650" fill="#1f2328">PiSSA Reproduction</text>
+  <text x="613" y="39" font-size="10" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" letter-spacing="1" fill="#59636e">RESEARCH</text>
+  <text x="26" y="75" font-size="13.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" fill="#59636e">From-scratch SVD initialization, LoRA comparisons, and</text>
+  <text x="26" y="95" font-size="13.6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" fill="#59636e">quantized fine-tuning experiments across model families.</text>
+  <circle cx="31" cy="126" r="5" fill="#476579"/>
+  <text x="43" y="131" font-size="12.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" fill="#1f2328">Python</text>
+  <rect x="118" y="113" width="72" height="24" rx="12" fill="#e9f0f4"/>
+  <text x="154" y="129" text-anchor="middle" font-size="11.4" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" fill="#476579">PyTorch</text>
+  <rect x="198" y="113" width="52" height="24" rx="12" fill="#e9f0f4"/>
+  <text x="224" y="129" text-anchor="middle" font-size="11.4" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" fill="#476579">PEFT</text>
+  <rect x="258" y="113" width="51" height="24" rx="12" fill="#e9f0f4"/>
+  <text x="283.5" y="129" text-anchor="middle" font-size="11.4" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" fill="#476579">SVD</text>
+</svg>
